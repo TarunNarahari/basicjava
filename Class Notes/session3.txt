@@ -21,3 +21,5 @@ Basic Java Coding:
 -Git Clone - clones
 -Git mkdir - Change directory to…
 -v=new 
+
+To be able to change text on a file open text edit.
