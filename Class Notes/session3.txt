@@ -1,0 +1,25 @@
+Session 3 Notes:
+
+Updated NOTES
+
+Commands:
+cd- change directory
+pwd- to check the directory
+ls- lists the content
+git status- check what you changed
+git add * - adds everything that was changed
+git commit -m - it commits the push to the remote
+git push origin master - pushes the staged files to your remote
+tab- gives rest of the name if typed enough letters
+Up arrow- Uses previous commands
+
+Basic Java Coding:
+
+-Add (;) at the end of each line of text when coding in java
+-system.out.println()- is printing the variable
+- add variables to do math or you can use text to print things. Ex: system.out.println(“HelloWorld”)
+-Git Clone - clones
+-Git mkdir - Change directory to…
+-v=new 
+
+To be able to change text on a file open text edit.
