@@ -1,4 +1,4 @@
-Session 2 Notes:
+Session 3 Notes:
 
 Updated NOTES
 
@@ -18,3 +18,6 @@ Basic Java Coding:
 -Add (;) at the end of each line of text when coding in java
 -system.out.println()- is printing the variable
 - add variables to do math or you can use text to print things. Ex: system.out.println(“HelloWorld”)
+-Git Clone - clones
+-Git mkdir - Change directory to…
+-v= new 
