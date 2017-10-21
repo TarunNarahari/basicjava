@@ -4,6 +4,7 @@ public class Application {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		
 		System.out.println(" grade");
 		Scanner scanner = new Scanner(System.in);
 		int firstNumber = scanner.nextInt();
