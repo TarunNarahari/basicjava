@@ -20,6 +20,4 @@ Basic Java Coding:
 - add variables to do math or you can use text to print things. Ex: system.out.println(“HelloWorld”)
 -Git Clone - clones
 -Git mkdir - Change directory to…
--v=new 
-
-To be able to change text on a file open text edit.
+-v= new 
